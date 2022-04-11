@@ -37,8 +37,8 @@
         <div class="form-group">
           <label class="form-label" for="sex">Sexo</label>
           <select v-model="pet.sex" id="size" class="form-control">
-              <option selected>Masculino</option>
-              <option>Feminino</option>
+              <option selected>Macho</option>
+              <option>Fêmea</option>
             </select>
         </div>
       </div>

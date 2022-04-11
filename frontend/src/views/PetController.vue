@@ -45,11 +45,11 @@
               <td>
                 <i
                   @click="editPets(item)"
-                  class="fas fa-pencil-alt edit"
+                  class="bi bi-pencil-square edit"
                 ></i>
                 <i
                   @click="removePet(item)"
-                  class="fas fa-trash-alt remove"
+                  class="bi bi-trash-fill remove"
                 ></i>
               </td>
               </tr>

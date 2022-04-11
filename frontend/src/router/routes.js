@@ -19,35 +19,35 @@ const routes = [
         name: 'Dashboard',
         component: Dashboard,
         title: 'Dashboard',
-        meta: { requiredAuth: true }
+        meta: { requiredAuth: false }
     },
     {
         path: '/gerenciamento-de-usuarios',
         name: 'UserForm',
         component: UserForm,
         title: 'Usuarios',
-        meta: { requiredAuth: true }
+        meta: { requiredAuth: false }
     },
     {
         path: '/gerenciamento-de-pets',
         name: 'PetController',
         component: PetController,
         title: 'Pets',
-        meta: { requiredAuth: true }
+        meta: { requiredAuth: false }
     },
     {
         path: '/gerenciamento-de-pets/novo',
         name: 'NewPet',
         component: Pet,
         title: 'Adicionar Pet',
-        meta: { requiredAuth: true }
+        meta: { requiredAuth: false }
     },
     {
         path: '/gerenciamento-de-pets/editar',
         name: 'EditPet',
         component: Pet,
         title: 'Editar pet',
-        meta: { requiredAuth: true }
+        meta: { requiredAuth: false }
     },
 
     {
@@ -55,21 +55,21 @@ const routes = [
         name: 'AdopterController',
         component: AdopterController,
         title: 'Adopters',
-        meta: { requiredAuth: true }
+        meta: { requiredAuth: false }
     },
     {
         path: '/gerenciamento-de-adotantes/novo',
         name: 'NewAdopter',
         component: Adopter,
         title: 'Adicionar Pet',
-        meta: { requiredAuth: true }
+        meta: { requiredAuth: false }
     },
     {
         path: '/gerenciamento-de-adotantes/editar',
         name: 'EditAdopter',
         component: Adopter,
         title: 'Editar adopter',
-        meta: { requiredAuth: true }
+        meta: { requiredAuth: false }
     },
 ];
 

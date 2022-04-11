@@ -92,11 +92,14 @@ export default {
   color: #090753;
   cursor: pointer;
   margin: 5px;
+  font-size: 18px;
 }
 .remove {
   color: #FF0000;
   cursor: pointer;
   margin: 5px;
+    font-size: 18px;
+
 }
 .ver-em-cards {
  

@@ -66,7 +66,7 @@
     
       <div class="col-sm-10">
         <div class="form-group">
-          <label class="fas fa-cloud-upload-alt" for="image">Upload</label>
+          <label class="bi bi-cloud-upload-fill" for="image">Upload</label>
           <input type="file" @change="onFileChange" class="form-control" />
         </div>
       </div>

@@ -10,7 +10,7 @@
         href="#!"
         role="button"
         data-mdb-ripple-color="dark"
-        ><i class="fab fa-facebook-f"></i
+        ><i class="bi bi-facebook-f"></i
       ></a>
 
       <!-- Twitter -->
@@ -19,7 +19,7 @@
         href="#!"
         role="button"
         data-mdb-ripple-color="dark"
-        ><i class="fab fa-twitter"></i
+        ><i class="bi bi-twitter"></i
       ></a>
 
       <!-- Instagram -->
@@ -28,7 +28,7 @@
         href="#!"
         role="button"
         data-mdb-ripple-color="dark"
-        ><i class="fab fa-instagram"></i
+        ><i class="bi bi-instagram"></i
       ></a>
 
       <!-- Linkedin -->
@@ -37,15 +37,15 @@
         href="#!"
         role="button"
         data-mdb-ripple-color="dark"
-        ><i class="fab fa-linkedin"></i
+        ><i class="bi bi-linkedin"></i
       ></a>
       <!-- Github -->
       <a
         class="btn btn-link btn-floating btn-lg text-dark m-1"
-        href="https://github.com/FernandodotDEV"
+        href="https://github.com/FernandoSantosBatista"
         role="button"
         data-mdb-ripple-color="dark"
-        ><i class="fab fa-github"></i
+        ><i class="bi bi-github"></i
       ></a>
     </section>
     <!-- Section: Social media -->
@@ -55,7 +55,7 @@
   <!-- Copyright -->
   <div class="text-center text-dark p-3" style="background-color: rgba(0, 0, 0, 0.2);">
     © 2022 Copyright: All rights reserved
-    <a class="text-dark" href="https://github.com/FernandodotDEV">FernandodotDEV</a>
+    <a class="text-dark" href="https://github.com/FernandoSantosBatista">FernandodotDEV</a>
   </div>
   <!-- Copyright -->
 </footer>

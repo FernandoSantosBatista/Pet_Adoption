@@ -2,7 +2,7 @@ import axios from "axios";
 import utilsStorage from '../utils/storage';
 
 const api = axios.create({
-    baseURL: 'localhost:3000',
+    baseURL: 'https://backendapi22.herokuapp.com/api/v1',
 });
 
 api.interceptors.request.use((config) => {

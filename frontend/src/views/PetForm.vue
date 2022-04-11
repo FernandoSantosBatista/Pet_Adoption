@@ -239,7 +239,11 @@ export default {
 <style scoped>
 .container{
     padding: 40px;
+}
 
+.bi-cloud-upload-fill {
+  font-size: 20px;
+  padding: 10px;
 }
 
 </style>

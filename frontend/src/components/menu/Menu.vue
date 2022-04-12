@@ -14,10 +14,10 @@
           <router-link to="/gerenciamento-de-pets" class="nav-item text-white nav-link">Pets</router-link>
         </li>
         <li class="nav-item">
-          <router-link to="/gerenciamento-de-usuarios" class="nav-item text-white  nav-link">Usuarios</router-link>
+          <router-link to="/gerenciamento-de-adotantes" class="nav-item text-white nav-link">Adotantes</router-link>
         </li>
         <li class="nav-item">
-          <router-link to="/gerenciamento-de-adotantes" class="nav-item text-white nav-link">Adotantes</router-link>
+          <router-link to="/login" class="nav-item text-white  nav-link">Login</router-link>
         </li>
       </ul>
     </div>

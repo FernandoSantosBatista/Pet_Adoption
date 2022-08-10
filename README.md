@@ -10,7 +10,7 @@ https://adoteumamigo.netlify.app/
 ![TelaAdotentesPets](https://user-images.githubusercontent.com/74667076/161403817-95416117-f6e4-4423-9355-6547d6fe40d6.png)
 ![GerAdotentesPets](https://user-images.githubusercontent.com/74667076/161404076-4d4b591a-7aa3-4b20-b8f3-1f186f4c090f.png)
 
-Front end and back end RestFull application, pet registration system plus authentication and registration of new users
+Front end and back end RestFull application, pet registration system and registration of new users
 
 Project setup
 front-end
